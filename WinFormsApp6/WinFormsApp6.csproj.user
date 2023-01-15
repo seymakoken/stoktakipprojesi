@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GirisSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GirisSayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KullanılanÜrünlerSayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StokArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÜrünEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÜrünAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ürünİade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
